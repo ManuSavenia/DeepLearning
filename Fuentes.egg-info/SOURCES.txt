@@ -1,0 +1,10 @@
+setup.py
+Fuentes/ClassPerceptron.py
+Fuentes/PlotRegiones.py
+Fuentes/__init__.py
+Fuentes/grafica.py
+Fuentes.egg-info/PKG-INFO
+Fuentes.egg-info/SOURCES.txt
+Fuentes.egg-info/dependency_links.txt
+Fuentes.egg-info/requires.txt
+Fuentes.egg-info/top_level.txt
