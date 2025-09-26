@@ -11,5 +11,6 @@ setup(
         'matplotlib',
         'pandas',
         'IPython',
+        'tensorflow'
     ],
 )
