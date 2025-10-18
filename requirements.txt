@@ -7,3 +7,5 @@ setuptools
 scikit-learn
 sympy
 scikit-image
+plotly
+nbformat
