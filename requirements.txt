@@ -9,3 +9,5 @@ sympy
 scikit-image
 plotly
 nbformat
+librosa
+ffmpeg
