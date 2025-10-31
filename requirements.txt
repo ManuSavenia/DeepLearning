@@ -5,9 +5,11 @@ seaborn
 chardet
 setuptools
 scikit-learn
+tensorflow
 sympy
 scikit-image
 plotly
-nbformat
-librosa
-ffmpeg
+livelossplot
+opencv-python
+livelossplot
+ipywidgets
